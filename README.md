@@ -2,9 +2,9 @@
   
 <samp>
   
-:3
+sup <3
 
-backend // cybersecurity // linux
+cybersecurity | hacking | ctfs
 
-<a href="https://danishv.me"><strong>website</strong></a>  | <a href="https://linkedin.com/in/danish--verma"><strong>linkedin/research</strong></a>  | <a href="mailto:iamdanishverma@gmail.com"><strong>email</strong></a>
+<a href="https://danishv.me"><strong>website</strong></a>  | <a href="https://linkedin.com/in/danish--verma"><strong>linkedin</strong></a>  | <a href="mailto:iamdanishverma@gmail.com"><strong>email</strong></a>
 </samp>
