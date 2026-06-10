@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/danishistired/danishistired/refs/heads/main/header.jpg)](https://danishv.me)
+[![header](https://raw.githubusercontent.com/danishistired/danishistired/refs/heads/main/header2.jpg)](https://danishv.me)
   
 <samp>
   
