@@ -1,6 +1,6 @@
 [![header](https://raw.githubusercontent.com/danishistired/danishistired/refs/heads/main/header07.jpg)](https://danishv.me) 
 
-<samp>
+<samp> 
 
 sup
 
